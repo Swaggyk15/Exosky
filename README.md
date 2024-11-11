@@ -14,9 +14,9 @@ Lastly, you can access our presentation video by clicking on the following youtu
 https://www.youtube.com/watch?v=0SuQRHXj6Ns
 
 Again, thanks to my team members:
-Kadin Miller
-Chiara DeAngelis
-Kenny Monterroso Ramirez (me)
-Alvaro L. 
-Jacob Loufek
+Kadin Miller, 
+Chiara DeAngelis, 
+Kenny Monterroso Ramirez (me), 
+Alvaro L.,  
+Jacob Loufek, 
 Cesar Briones
