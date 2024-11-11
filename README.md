@@ -1,6 +1,6 @@
 # Exosky
 Hello my name is Kenny Monterroso! I particpated in the 2024 NASA Space Apps Challenge hosted by Tampa's Hackerspace!
-My team an I placed 1st place for the Gloabl contest with this project!
+My team and I placed 1st place for the Gloabl contest with this project!
 The full details of the challenge can be found at:
 https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/exosky/
 
